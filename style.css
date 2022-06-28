@@ -79,6 +79,7 @@ body {
 		margin-bottom: 5%;
 	}
 }
+@media (max-width:600px){
 .info h1,h2,p,a,img,iframe{
 	margin-left:3%
 }
@@ -152,4 +153,5 @@ li a:hover{
 .extended {
 	display:block;
 	margin-bottom: 10%;
+}
 }
