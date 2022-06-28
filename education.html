@@ -9,24 +9,15 @@
 </head>
 
 <body>
-	<div class="horizontal-menu">
-		<ul>
-			<li>
-				<a href="index.html">Home</a>
-			</li>
-			<li>
-				<a href="education.html" class="current">Education</a>
-			</li>
-			<li>
-				<a href="work.html">Work Experience</a>
-			</li>
-			<li>	
-				<a href="projects.html">Electronics Projects</a>
-			</li>
-			<li>
-				<a href="software.html">Software Development</a>
-			</li>
-		</ul>
+	<div class="dropMenu">
+		<button onclick = "drop()" class = "pushDrop">Menu</button>
+		<div id="menu" class = "dropOptions">
+			<a href="index.html" class="current">Home</a>
+			<a href="education.html">Education</a>
+			<a href="work.html">Work Experience</a>	
+			<a href="projects.html">Electronics Projects</a>
+			<a href="software.html">Software Development</a>
+		</div>
 	</div>
 	<div class = "buffer">
 	</div>
