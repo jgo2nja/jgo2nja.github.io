@@ -12,6 +12,12 @@ body {
 	
 	.info img {
 		width:60%;
+		height:auto;
+	}
+	
+	.info iframe{
+		width: 50%;
+		height: auto;
 	}
 
 	.info h1,h2{
@@ -71,7 +77,12 @@ body {
 }
 @media (max-width:600px){
 	.info img{
-		width: 80%
+		width: 80%;
+		height:auto;
+	}
+	.info iframe{
+		width: 80%;
+		height:auto;
 	}
 	.info h1,h2,p,a,img,iframe{
 		margin-left:3%;
