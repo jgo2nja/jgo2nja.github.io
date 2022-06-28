@@ -7,22 +7,21 @@ body {
 .dropbtn {
   	background-color: #39544F;
   	color: white;
-  	padding: 5%;
+  	padding: 10%;
   	font-size: 16px;
   	border: none;
   	cursor: pointer;
-	margin:0;
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  	background-color: #444444;
+  	background-color: #39544F;
 }
 
 .dropdown {
   	position: relative;
-  	display: inline-block;
+  	display: block;
   	background-color: #39544F;
-  	padding-bottom: 5%;
+  	margin-bottom: 5%;
 }
 
 .dropdown-content {
@@ -39,9 +38,14 @@ body {
   	display: block;
 }
 
-.dropdown-content a:hover {background-color: #000000;}
+.dropdown-content a:hover {
+	background-color: #444444;
+	color:#FFFFFF;
+}
 
-.show {display:block;}
+.show {
+	display:block;
+}
 	
 .info h1,h2,p,a,img,iframe{
 	margin-left:1%
