@@ -14,8 +14,8 @@ body {
 }
 	
 .info iframe{
-	width: 30%;
-	height: auto;
+	width: 560px;
+	height: 315px;
 }
 
 .info h1,h2{
