@@ -23,7 +23,8 @@ body {
 .dropdown {
   position: relative;
   display: inline-block;
-  background-color: #39544F
+  background-color: #39544F;
+  margin-bottom: 5%;
 }
 
 /* Dropdown Content (Hidden by Default) */
