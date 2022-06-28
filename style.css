@@ -4,18 +4,22 @@ body {
 	margin:0;
 }
 
-.menu{
+.dropMenu{
 	position: relative;
 	display:inline-block;
 }
 
 .pushDrop{
-	background-color:#FFFFFF;
-	color:#000000;
+	background-color:#3498DB;
+	color:#FFFFFF;
 	padding: 16px;
 	font-size:12px;
 	border:none;
 	cursor: pointer;
+}
+
+.pushDrop:hover, .pushDrop:focus{
+	background-color: #2980B9;
 }
 
 .dropOptions{
