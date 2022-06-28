@@ -7,11 +7,11 @@ body {
 @media (min-width:600px){
 	
 	.school img{
-		width: 50%;
+		width: 600px;
 		height: auto;
 	}
 	.project img{
-		width: 50%;
+		width: 600px;
 		height:auto;
 	}
 	.info h1,h2,p,a,img,iframe{
@@ -75,11 +75,11 @@ body {
 }
 @media (max-width:600px){
 	.school img{
-		width:80%;
+		width:500px;
 		height:auto;
 	}
 	.project img{
-		width:80%;
+		width:500px;
 		height:auto;
 	}
 	.info h1,h2,p,a,img,iframe{
