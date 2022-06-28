@@ -6,12 +6,12 @@ body {
 
 @media (min-width:600px){
 	
-	.school img{
-		width: 600px;
+	.info .school {
+		width: 60%;
 		height: auto;
 	}
-	.project img{
-		width: 600px;
+	.info .project {
+		width: 60%;
 		height:auto;
 	}
 	.info h1,h2,p,a,img,iframe{
@@ -74,12 +74,12 @@ body {
 	}
 }
 @media (max-width:600px){
-	.school img{
-		width:500px;
+	.info .school{
+		width:80%;
 		height:auto;
 	}
-	.project img{
-		width:500px;
+	.info .project{
+		width:80%;
 		height:auto;
 	}
 	.info h1,h2,p,a,img,iframe{
