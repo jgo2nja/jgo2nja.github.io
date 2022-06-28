@@ -46,11 +46,11 @@ body {
 		background-color: #B37B4A;
 	}
 	.school{
-		width = 50%;
+		width = 20%;
 	}
 	
 	.project{
-		width = 50%;
+		width = 20%;
 	}
 
 	.thick {
@@ -121,11 +121,11 @@ body {
 }
 
 .school{
-	width = 80%;
+	width = 35%;
 }
 
 .project{
-	width = 80%;
+	width = 35%;
 }
 
 .thick {
