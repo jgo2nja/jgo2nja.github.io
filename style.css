@@ -45,13 +45,6 @@ body {
 		padding-bottom:5.3%;
 		background-color: #B37B4A;
 	}
-	.school{
-		width = 60%;
-	}
-	
-	.project{
-		width = 50%;
-	}
 
 	.thick {
 		border: none;
@@ -66,92 +59,69 @@ body {
 		background-color:#AAA;
 	}
 
-	.current {
-		background-color: #444444;
-	}
-
-	li a:hover{
-	background-color:black;
-	}
-
 	.extended {
 		display:block;
 		margin-bottom: 5%;
 	}
 }
 @media (max-width:600px){
-.info h1,h2,p,a,img,iframe{
-	margin-left:3%
-}
+	.info h1,h2,p,a,img,iframe{
+		margin-left:3%;
+	}
 
-.info h1,h2{
-	font-family:Arial, sans-serif;
-}
+	.info h1,h2{
+		font-family:Arial, sans-serif;
+	}
 
 
-.profile img {
-	padding-left:6%;
-	padding-right:6%;
-	float:left;
-	width:22%;
-}
+	.profile img {
+		padding-left:6%;
+		padding-right:6%;
+		float:left;
+		width:33%;
+	}
 
-.profile h1 {
-	margin:0;
-	padding-top:2%;
-	font-family:Arial, sans-serif;
-}
+	.profile h1 {
+		margin:0;
+		padding-top:2%;
+		font-family:Arial, sans-serif;
+	}
 
-.profile h2{
-	font-family: Arial, sans-serif;
-}
+	.profile h2{
+		font-family: Arial, sans-serif;
+	}
 
-.buffer {
-	margin:0;
-	padding-bottom:0.5%;
-	background-color: #B37B4A;
-}
+	.buffer {
+		margin:0;
+		padding-bottom:0.5%;
+		background-color: #B37B4A;
+	}
 
-.bottom {
-	margin-top:19.4%;
-	margin-bottom:0;
-	margin-left:0;
-	margin-right:0;
-	padding-bottom:5.3%;
-	background-color: #B37B4A;
-}
+	.bottom {
+		margin-top:19.4%;
+		margin-bottom:0;
+		margin-left:0;
+		margin-right:0;
+		padding-bottom:5.3%;
+		background-color: #B37B4A;
+	}
 
-.school{
-	width = 80%;
-}
 
-.project{
-	width = 70%;
-}
+	.thick {
+		border: none;
+		height: 2px;
+		background-color:#888;
+		margin-bottom:5%;
+	}
 
-.thick {
-	border: none;
-	height: 2px;
-	background-color:#888;
-	margin-bottom:5%;
-}
+	.thin {
+		border:none;
+		height:1px;
+		background-color:#AAA;
+	}
 
-.thin {
-	border:none;
-	height:1px;
-	background-color:#AAA;
-}
-
-.current {
-	background-color: #444444;
-}
-
-li a:hover{
-	background-color:black;
-}
-
-.extended {
-	display:block;
-	margin-bottom: 10%;
-}
-}
+	.extended {
+		display:block;
+		margin-bottom: 8%;
+	}
+	}
