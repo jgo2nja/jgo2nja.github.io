@@ -23,6 +23,7 @@ body {
 .dropdown {
   position: relative;
   display: inline-block;
+  background-color: #39544F
 }
 
 /* Dropdown Content (Hidden by Default) */
