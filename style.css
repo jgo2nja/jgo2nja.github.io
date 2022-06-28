@@ -127,7 +127,7 @@ body {
 		border: none;
 		height: 2px;
 		background-color:#888;
-		margin-bottom:5%;
+		margin-bottom:8%;
 	}
 
 	.thin {
@@ -138,6 +138,6 @@ body {
 
 	.extended {
 		display:block;
-		margin-bottom: 8%;
+		margin-bottom: 10%;
 	}
 	}
