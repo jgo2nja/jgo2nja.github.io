@@ -1,0 +1,106 @@
+<!--James O'Connell 23 June 2022-->
+<!DOCTYPE html>
+
+<head>
+	<title>
+		Software Examples
+	</title>
+	<link type="text/css" rel="stylesheet", href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+	<div class="horizontal-menu">
+		<ul>
+			<li>
+				<a href="index.html">Home</a>
+			</li>
+			<li>
+				<a href="education.html">Education</a>
+			</li>
+			<li>
+				<a href="work.html">Work Experience</a>
+			</li>
+			<li>	
+				<a href="projects.html">Electronics Projects</a>
+			</li>
+			<li>
+				<a href="software.html" class = "current">Software Development</a>
+			</li>
+		</ul>
+	</div>
+	<div class= "buffer">
+	</div>
+	<div class = "info">
+	<h1>Software Development Experience and Examples</h1>
+	<hr class="thick">
+		<h2>HTML and CSS</h2>
+		<hr class = "thin">
+			<p class = "extended"> Throughout high school college, I have become very well acquainted with these languages. My latest project using these is this site.
+		<h2>Python</h2>
+		<hr class = "thin">
+			<p>
+				I began my programming experience at UVA with python, a powerful high-level language. Most of my projects in Spring 2021 used brute force solutions.
+				Here is a program I made that reads in data from a the lous list website, and gives data on UVA class availability:
+			</p>
+			<a class = "extended" href = "src/python/lous_list.py"> lous_list.py </a>
+		<h2>Java and Object Oriented Programming</h2>
+		<hr class = "thin">
+			<p>
+				In the fall semester of 2021, I learned about the concept of objects, classes, and inheritance. My understanding of data structures also improved. 
+				For example, here is a program I designed that sorts strings alphabetically using queues: 
+			</p>
+			<a href="src/java/StringSorter.java">StringSorter.java</a>
+			<p class = "extended">
+				As I worked more and more with Java, I started using recursion to increase the speed and efficiency of operations within certain data structures, 
+				such as trees.
+			</p>
+		<h2>C++ and Memory</h2>
+		<hr class = "thin">
+			<p>
+				In the spring semester of 2022, I spent lots of time working with C++ and pointers. This helped me understand how data is stored in memory.
+				Before using abstract data types from the STL library, I made them from scratch. Here is a Stack that I made:
+			</p>
+			<a href = "src/C++/StackNode.h"> StackNode.h </a> <a href = "src/C++/StackNode.cpp"> StackNode.cpp </a> <a href = "src/C++/Stack.h"> Stack.h </a>
+			<a href = "src/C++/Stack.cpp"> Stack.cpp </a> <a href = "src/C++/StackItr.h"> StackItr.h </a> <a href = "src/C++/StackItr.cpp"> StackItr.cpp </a>
+			<p class = "extended"> 
+				While building this Stack, I realized the importance of choosing the right data structure (linked list in this case) to make the ADT fast and efficient.
+				I also learned the impotance of having a copy constructor, copy assignment operator, and destructor to avoid memory leaks.
+			</p>
+		<h2>x86 Assembly and Data Strucures</h2>
+		<hr class = "thin">
+			<p>
+				Also in spring 2022, I worked with x86 assembly to conceptualize data operations in memory on a lower level. I had to understand the C calling convention and the
+				proper operations possible with each register. Here is an assembly program I made that verifies the collatz conjecture for a particular integer value case:
+			</p>
+			<a href = "src/x86/threexplusone.s" > threexplusone.s </a>
+			<p>
+				Assembly also helped me see how certain algorithms worked on a lower level. For example, here is an assembly program I made that performs a binary search
+				on an array, a simple divide and conquer algorithm:
+			</p>
+			<a class = "extended" href = "src/x86/binarySearch.s"> binarySearch.s </a>
+		<h2>Problem Solving</h2>
+		<hr class = "thin">
+			<p>
+				As I became more comfortable with C++ and common ADTs, I started to tackle more complex problems. Here is the number of steps to solve <b>any</b> combination of the
+				8 slider puzzle, using a queue with the BFS algorithm:
+			</p>
+			<a href = "src/C++/solver.cpp"> solver.cpp </a> 
+			<a href = "src/C++/vertex.h"> vertex.h </a> 
+			<a href = "src/C++/vertex.cpp"> vertex.cpp </a>
+		<h2>Bash and Unix OS</h2>
+		<hr class = "thin">
+			<p>
+				I completed all of my C++ and assembly work with an Ubuntu 64 bit OS. I have a good understanding of how to efficiently use the Terminal and LLDB to
+				execute and debug programs. I have also learned a bit of shell scripting. Here is a script I made that calculates the average of 5 program outputs:
+			</p>
+			<a href = "src/bash/averagetime.sh" > averagetime.sh </a>
+			<p>
+				While working in a Unix environment, I learned the value of using a Makefile to compile and execute files quickly. Here is a Makefile that I made and used
+				to compile my AVL tree.
+			</p>
+			<a class = "extended" href = "src/bash/Makefile"> Makefile </a>
+	</div>
+		<div class = "bottom">
+		</div>
+</body>
