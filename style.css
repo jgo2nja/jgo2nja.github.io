@@ -139,8 +139,8 @@ body {
 	.profile img {
 		padding-left:6%;
 		padding-right:6%;
-		float:left;
-		width:33%;
+		float:top;
+		width:55%;
 	}
 
 	.profile h1 {
@@ -160,7 +160,7 @@ body {
 	}
 
 	.bottom {
-		margin-top:19.4%;
+		margin-top:20;%
 		margin-bottom:0;
 		margin-left:0;
 		margin-right:0;
