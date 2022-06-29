@@ -141,19 +141,19 @@ body {
 
 
 	.profile img {
-		padding-left:10%;
+		padding-left:15%;
 		padding-right:15%;
-		float:top;
 		width:70%;
+		margin-bottom: 5%;
 	}
 
 	.profile h1 {
-		margin:0;
-		padding-top:8%;
+		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
+		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
 
