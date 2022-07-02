@@ -4,6 +4,11 @@ body {
 	margin:0;
 }
 
+.menu{
+	width = 16px;
+	background-color:none;
+}
+
 .dropbtn {
   	background-color: #39544F;
   	color: white;
