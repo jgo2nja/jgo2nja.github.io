@@ -72,6 +72,9 @@ body {
 
 
 .profileImage {
+	position:absolute;
+}
+.profileImage img{
 	margin:0;
 	padding-left:6%;
 	padding-right:6%;
@@ -144,9 +147,11 @@ body {
 	.info h1,h2{
 		font-family:Arial, sans-serif;
 	}
-
-
-	.profileImage {
+	
+	.profileImage{
+		position:absolute;
+	}
+	.profileImage img{
 		float:top;
 		padding-left:11%;
 		padding-right:15%;
