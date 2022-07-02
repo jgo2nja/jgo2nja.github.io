@@ -6,11 +6,11 @@ body {
 
 .dropImage {
 	background-color:none;
+	margin: 2%;
 }
 
 .dropbtn {
   	background-color: #39544F;
-  	padding: 0.5%;
   	border: none;
   	cursor: pointer;
 }
