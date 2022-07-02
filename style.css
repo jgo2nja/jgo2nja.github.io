@@ -144,7 +144,8 @@ body {
 
 
 	.profile img {
-		float:top;
+		position:relative;
+		float:left;
 		padding-left:11%;
 		padding-right:15%;
 		width:70%;
@@ -152,11 +153,13 @@ body {
 	}
 
 	.profile h1 {
+		padding-left:0;
 		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
+		padding-left:0;
 		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
