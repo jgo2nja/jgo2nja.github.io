@@ -79,12 +79,13 @@ body {
 }
 
 .profile h1 {
-	margin:0;
+	padding-left:40%;
 	padding-top:2%;
 	font-family:Arial, sans-serif;
 }
 
 .profile h2{
+	padding-left:40%;
 	font-family: Arial, sans-serif;
 }
 
@@ -143,6 +144,7 @@ body {
 
 
 	.profile img {
+		float:top;
 		padding-left:11%;
 		padding-right:15%;
 		width:70%;
