@@ -10,8 +10,7 @@ body {
 
 .dropbtn {
   	background-color: #39544F;
-  	color: white;
-  	padding: 2%;
+  	padding: 0.5%;
   	border: none;
   	cursor: pointer;
 }
