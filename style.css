@@ -78,14 +78,17 @@ body {
 	width:22%;
 }
 
-.profile h1 {
+.profile{
 	float:left;
+}
+.profile h1 {
+	vertical-align:left;
 	padding-top:2%;
 	font-family:Arial, sans-serif;
 }
 
 .profile h2{
-	float:left;
+	vertical-align:left;
 	font-family: Arial, sans-serif;
 }
 
@@ -97,7 +100,7 @@ body {
 
 .profileBottom{
 	position:absolute;
-	bottom:0;
+	bottom:5.3%;
 	padding-top:5.3%;
 	background-color: #B37B4A;
 }
@@ -151,20 +154,24 @@ body {
 	
 	.profileImage img{
 		float:top;
-		padding-left:11%;
+		padding-left:15%;
 		padding-right:15%;
 		width:70%;
 		margin-bottom: 5%;
 	}
+	
+	.profile{
+		float:left;
+	}
 
 	.profile h1 {
-		float:left;
+		vertical-align:center;
 		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
-		float:left;
+		vertical-align:center;
 		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
