@@ -80,15 +80,11 @@ body {
 }
 
 .profile h1 {
-	float:right;
-	padding-right:20%;
 	padding-top:2%;
 	font-family:Arial, sans-serif;
 }
 
 .profile h2{
-	float:right;
-	padding-right:20%;
 	font-family: Arial, sans-serif;
 }
 
@@ -155,13 +151,11 @@ body {
 	}
 
 	.profile h1 {
-		padding-left:0;
 		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
-		padding-left:0;
 		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
