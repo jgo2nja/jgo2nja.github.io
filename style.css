@@ -70,11 +70,8 @@ body {
 	font-family:Arial, sans-serif;
 }
 
-
-.profileImage {
-	position:absolute;
-}
 .profileImage img{
+	display:block;
 	margin:0;
 	padding-left:6%;
 	padding-right:6%;
@@ -148,10 +145,8 @@ body {
 		font-family:Arial, sans-serif;
 	}
 	
-	.profileImage{
-		position:absolute;
-	}
 	.profileImage img{
+		display:block;
 		float:top;
 		padding-left:11%;
 		padding-right:15%;
