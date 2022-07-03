@@ -97,7 +97,8 @@ body {
 
 .profileBottom{
 	position:absolute;
-	padding-bottom:5.3%;
+	bottom:0;
+	padding-top:5.3%;
 	background-color: #B37B4A;
 }
 
