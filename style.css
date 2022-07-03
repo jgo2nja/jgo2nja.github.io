@@ -95,6 +95,12 @@ body {
 	background-color: #B37B4A;
 }
 
+.profileBottom{
+	position:absolute;
+	padding-bottom:5.3%;
+	background-color: #B37B4A;
+}
+
 .bottom {
 	margin-top:20%;
 	margin-bottom:0;
