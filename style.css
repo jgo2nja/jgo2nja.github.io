@@ -157,13 +157,13 @@ body {
 	}
 
 	.profile h1 {
-		display:block;
+		float:left;
 		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
-		display:block;
+		float:left;
 		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
