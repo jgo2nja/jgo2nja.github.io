@@ -166,13 +166,14 @@ body {
 
 	.profile h1 {
 		vertical-align:center;
-		margin-left:3%;
+		margin-left:10%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
 		vertical-align:center;
-		margin-left:3%;
+		margin-left:15%;
+		margin-right:15%;
 		font-family: Arial, sans-serif;
 	}
 
@@ -189,6 +190,14 @@ body {
 		margin-right:0;
 		padding-bottom:10%;
 		background-color: #B37B4A;
+	}
+	
+	
+	.profileBottom{
+		float:bottom;
+		padding-bottom:5.3%;
+		background-color: #B37B4A;
+		margin-top:132%
 	}
 
 
