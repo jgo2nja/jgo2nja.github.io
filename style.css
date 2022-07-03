@@ -71,7 +71,6 @@ body {
 }
 
 .profileImage img{
-	display:block;
 	margin:0;
 	padding-left:6%;
 	padding-right:6%;
@@ -80,11 +79,13 @@ body {
 }
 
 .profile h1 {
+	float:right;
 	padding-top:2%;
 	font-family:Arial, sans-serif;
 }
 
 .profile h2{
+	float:right;
 	font-family: Arial, sans-serif;
 }
 
@@ -142,7 +143,6 @@ body {
 	}
 	
 	.profileImage img{
-		display:block;
 		float:top;
 		padding-left:11%;
 		padding-right:15%;
@@ -151,11 +151,13 @@ body {
 	}
 
 	.profile h1 {
+		display:block;
 		margin-left:3%;
 		font-family:Arial, sans-serif;
 	}
 
 	.profile h2{
+		display:block;
 		margin-left:3%;
 		font-family: Arial, sans-serif;
 	}
