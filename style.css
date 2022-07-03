@@ -79,13 +79,13 @@ body {
 }
 
 .profile h1 {
-	float:right;
+	float:left;
 	padding-top:2%;
 	font-family:Arial, sans-serif;
 }
 
 .profile h2{
-	float:right;
+	float:left;
 	font-family: Arial, sans-serif;
 }
 
