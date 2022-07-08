@@ -71,7 +71,7 @@ span a{
 	display:block;
 }
 	
-.info h1,h2,p,a,img,iframe{
+.info h1,h2,p,a,span,img,iframe{
 	margin-left:1%
 }
 	
