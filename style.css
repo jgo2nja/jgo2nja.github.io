@@ -6,15 +6,20 @@ body {
 
 span{
 	display:block;
-	width:10px;
+	width:auto;
 	height: 10px;
 	line-height:10px;
 	-moz-border-radius: 5px;
         border-radius: 5px;
 
     	background-color: #B37B4A;
-    	color: #39544F;
     	text-align: center;
+}
+
+span a{
+	display:block;
+	color: #39544F;
+	text-decoration:none;
 }
 
 .dropImage {
