@@ -6,8 +6,6 @@ body {
 
 span{
 	display:block;
-	padding-right:1%;
-	padding-left:1%;
 	width:fit-content;
 	height: 30px;
 	line-height: 30px;
@@ -19,6 +17,8 @@ span{
 }
 
 span a{
+	padding-right:1%;
+	padding-left:1%;
 	display:block;
 	color: #39544F;
 	text-decoration:none;
@@ -165,7 +165,7 @@ span a{
 		width: 80%;
 		height:auto;
 	}
-	.info h1,h2,p,a,img,iframe{
+	.info h1,h2,p,span,a,img,iframe{
 		margin-left:3%;
 	}
 
