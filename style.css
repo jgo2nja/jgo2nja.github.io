@@ -6,12 +6,8 @@ body {
 
 span{
 	display:block;
-	width:fit-content;
+	width:auto;
 	height: 30px;
-	line-height: 30px;
-	-moz-border-radius: 15px;
-        border-radius: 15px;
-
     	background-color: #B37B4A;
     	text-align: center;
 }
