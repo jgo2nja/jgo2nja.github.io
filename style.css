@@ -20,6 +20,7 @@ span a{
 	display:block;
 	color: #39544F;
 	text-decoration:none;
+	font-weight:bold;
 }
 
 .dropImage {
