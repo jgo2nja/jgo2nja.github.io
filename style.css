@@ -5,7 +5,8 @@ body {
 }
 
 span{
-	display:block;
+	display:inline;
+	margin-right:1%
 	width:fit-content;
 	height: 30px;
 	line-height: 30px;
