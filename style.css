@@ -7,10 +7,10 @@ body {
 span{
 	display:block;
 	width:auto;
-	height: 10px;
-	line-height:10px;
-	-moz-border-radius: 5px;
-        border-radius: 5px;
+	height: 30px;
+	line-height: 30px;
+	-moz-border-radius: 15px;
+        border-radius: 15px;
 
     	background-color: #B37B4A;
     	text-align: center;
