@@ -27,6 +27,10 @@ span a{
 	font-weight:bold;
 }
 
+.block{
+	display:block;
+}
+
 .dropImage {
 	background-color:none;
 }
