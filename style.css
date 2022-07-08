@@ -4,10 +4,6 @@ body {
 	margin:0;
 }
 
-.multiple{
-	float:left;
-}
-
 span{
 	display:block;
 	width:fit-content;
