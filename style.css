@@ -18,6 +18,8 @@ span{
 
 span a{
 	display:block;
+	padding-right:5px;
+	padding-left:5px;
 	color: #39544F;
 	text-decoration:none;
 	font-weight:bold;
